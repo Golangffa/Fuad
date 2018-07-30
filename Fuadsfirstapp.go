@@ -6,7 +6,7 @@ func main() {
 	//var a int
 	//var is introducing a variable
 	a := 5
-	var b int = 2
+	var b = 2
 	//var c int
 	//fmt.Printf("%d\n", a / b)
 	//%d is used to display an integer
